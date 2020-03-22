@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (2.7.5)
+    multi_xml (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv (~> 2.7, >= 2.7.5)
+  multi_xml (~> 0.6.0)
+
+BUNDLED WITH
+   2.1.4
